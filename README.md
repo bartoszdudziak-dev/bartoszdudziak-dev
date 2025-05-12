@@ -1,3 +1,5 @@
+### Hi! I'm Bartosz
+
 - 🚀 Aspiring Frontend Developer focused on React,
 - 💡 I value clean, reusable code and enjoy refining details for a great user experience.
 - 🧪 Currently gaining hands-on experience as a Frontend QA Intern,
